@@ -178,7 +178,7 @@ body{
     position: relative;
 }
 
-.cervice{
+.service{
     color: #D61120;
     text-decoration: underline;
     font-weight:800;
@@ -267,7 +267,7 @@ body{
     position: relative;
     font-weight: 800;
     left: 25px;
-    top: 80px;
+    top: 89px;
     font-size: 18px;
 }
 .wifi-msg1{
@@ -310,7 +310,7 @@ body{
     position: relative;
     font-weight: 800;
     left: 25px;
-    top: 55px;
+    top: 68px;
     font-size: 18px;
 }
 
@@ -354,7 +354,7 @@ body{
     position: relative;
     font-weight: 800;
     left: 30px;
-    top: 55px;
+    top: 70px;
     font-size: 18px;
 }
 
@@ -545,6 +545,7 @@ body{
     
 }
 
+
 .ultra{
     font-weight: 700;
     font-size: 20px;
@@ -565,8 +566,9 @@ body{
     right: 498px;
 }
 
-.exp{
-    bottom: 83px;
+.expp{
+    position: relative;
+    bottom: 85px;
     color: #4E4E4E;
 }
 
